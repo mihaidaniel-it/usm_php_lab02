@@ -29,7 +29,6 @@
 
 # 4. Вывод текста через echo и print 
 
-![Screenshot](images/part5.png)
 ![Screenshot](images/part6.png)
 
 # 5. Работа с переменными
